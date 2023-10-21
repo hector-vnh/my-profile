@@ -58,7 +58,6 @@ list-style-type: none;
 
 }
 
-
 .social-icons-container{
 text-align: center;
 }
@@ -71,10 +70,6 @@ display: inline-block;
 .social-icons li{
 display: inline-block;
 margin: 10px;
-}
-
-.facebook-icon{
-margin-right: 90px;
 }
 
 .linkedin-icon{
